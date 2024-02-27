@@ -1,5 +1,7 @@
 mod merge_sort;
 
+mod binary_search;
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
