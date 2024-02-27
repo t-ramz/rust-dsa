@@ -1,3 +1,5 @@
+mod merge_sort;
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
